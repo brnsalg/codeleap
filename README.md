@@ -1,9 +1,11 @@
 **backend**
 
 _mac / linux_
+
 source venv/bin/activate
 
 _windows_
+
 venv\Scripts\activate.bat
 
 
